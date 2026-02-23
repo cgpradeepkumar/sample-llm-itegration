@@ -2,3 +2,6 @@ fastapi
 uvicorn[standard]
 pydantic-settings
 google-generativeai
+google-genai # for Gemini API integration V2
+# google-cloud-aiplatform # for Vertex AI integration
+google-auth
